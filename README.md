@@ -9,6 +9,7 @@ In this project you will build such a pipeline.
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
+  * [W&B Link](#W&B_Link)
   * [Fork the Starter Kit](#fork-the-starter-kit)
   * [Create environment](#create-environment)
   * [Get API key for Weights and Biases](#get-api-key-for-weights-and-biases)
@@ -17,6 +18,9 @@ In this project you will build such a pipeline.
   * [Pre-existing components](#pre-existing-components)
 
 ## Preliminary steps
+### W&B Link
+Below is a link to by Weights and Biases Project:
+- **W&B Link** https://wandb.ai/ezrakizewski-none/nyc_airbnb?nw=nwuserezrakizewski
 
 ### Supported Operating Systems
 
